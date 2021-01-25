@@ -541,6 +541,9 @@ header {
 #myFooter .facebook:hover {
     color: #0077e2 !important;
 }
+.table-dark {
+    margin: 0px 0px 0px -31px;
+}
 
 #myFooter .google:hover {
     color: #ef1a1a!important;
